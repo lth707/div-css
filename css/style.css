@@ -552,3 +552,15 @@ ul.pick4 li + li {
 .footer ul li{
     display: inline;
 }
+.footer {
+    width: 970px;
+    margin: 6px auto 0px;
+    overflow: hidden;
+    text-align: center;
+}
+.footer div{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    font-size:14px;
+}
