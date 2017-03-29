@@ -218,7 +218,9 @@
     top:15px;
     writing-mode:vertical-rl;
     margin: 0px;
+    width:20px;
 }
+
 .info .cont,.photo .cont {
     width:94%;
     height:100%;
