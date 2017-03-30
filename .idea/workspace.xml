@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="447bd331-fa59-4882-8150-832ecde5b655" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style3.css" afterPath="$PROJECT_DIR$/css/style3.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html3.html" afterPath="$PROJECT_DIR$/html3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test1.html" afterPath="$PROJECT_DIR$/html1.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test2.html" afterPath="$PROJECT_DIR$/html2.html" />
     </list>
     <ignored path="html+css.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,8 +66,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test2.html">
+      <file leaf-file-name="html2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="507">
               <caret line="482" column="3" selection-start-line="482" selection-start-column="3" selection-end-line="491" selection-end-column="10" />
@@ -294,18 +294,18 @@
       <workItem from="1490347472773" duration="37045000" />
       <workItem from="1490592240102" duration="125000" />
       <workItem from="1490593071132" duration="41797000" />
-      <workItem from="1490768906922" duration="30702000" />
+      <workItem from="1490768906922" duration="30930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109669000" />
+    <option name="totallyTimeSpent" value="109897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1691254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1691254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -371,7 +371,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.html">
+    <entry file="file://$PROJECT_DIR$/html1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -387,7 +387,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.html">
+    <entry file="file://$PROJECT_DIR$/html1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -412,7 +412,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.html">
+    <entry file="file://$PROJECT_DIR$/html1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="153" column="33" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="33" />
@@ -428,7 +428,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.html">
+    <entry file="file://$PROJECT_DIR$/html2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="482" column="3" selection-start-line="482" selection-start-column="3" selection-end-line="491" selection-end-column="10" />
