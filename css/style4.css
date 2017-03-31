@@ -378,4 +378,38 @@
     margin: auto;
     padding: 6px 0;
     width: 970px;
+    overflow: hidden;
+    clear:both;
+}
+.footer .top{
+    clear:both;
+    margin-top: 6px;
+    border:1px dashed #c5c5c5;
+    border-radius: 5px;
+    padding: 3px 5px;
+}
+
+.footer .top ul{
+    margin: auto;
+    padding: 0;
+    list-style: none;
+}
+.footer .top ul li{
+    padding:0px 117px 0px 0px;
+    height: 30px;
+    line-height: 30px;
+    float:left;
+}
+.footer .top ul li a{
+    font-size: 12px;
+    text-decoration: none;
+}
+.footer .bottom{
+    text-align: center;
+    margin-top: 6px;
+    font-size: 12px;
+}
+.footer .bottom a{
+
+    text-decoration: none;
 }
